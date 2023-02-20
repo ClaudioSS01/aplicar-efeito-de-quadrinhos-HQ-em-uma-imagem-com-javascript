@@ -1,5 +1,5 @@
 # aplicar-efeito-de-quadrinhos-HQ-em-uma-imagem-com-javascript
-função para aplicar efeito de historias em quadrinhos em uma imagem usando javascript puro
+//função para aplicar efeito de historias em quadrinhos em uma imagem usando javascript puro
 
 
 function applyComicEffectToImage(imageId) {
